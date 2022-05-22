@@ -17,7 +17,6 @@
 <a href="https://github.com/zhwzein/Killua-Zoldyck/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zhwzein/Killua-Zoldyck?color=54aeff&style=flat-square" /></a>
 <a href="https://github.com/zhwzein/Killua-Zoldyck/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zhwzein/Killua-Zoldyck?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
----
 
 <!-- Installation -->
 <b><details><summary>Windows Installation</summary></b>  
@@ -83,7 +82,6 @@ SCAN THE QR USING YOUR WHATSAPP!
 
 </details>
 
----
 
 <details><summary>Available Features</summary><br>
 	
